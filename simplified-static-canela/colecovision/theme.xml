@@ -1,0 +1,152 @@
+<theme>
+    <formatVersion>3</formatVersion>
+    <include>./../simplified_static_[canela].xml</include>
+
+	<view name="system">
+
+		<image name="logo">
+			<path>./art/colecovision_main.svg.png</path>
+        </image>
+		
+		<helpsystem name="help">
+			<textColor>d7d7d7</textColor>
+			<iconColor>d7d7d7</iconColor>
+		</helpsystem>
+		
+	</view>
+
+	<view name="basic, detailed">
+	
+		<text name="system_name_1" extra="true">
+			<text>[--]</text>
+			<size>0.45 0.06</size>
+			<pos>0.527 0</pos>
+			<color>d7d7d7</color>
+			<fontPath>./../art/invisible.ttf</fontPath>
+			<fontSize>0.030</fontSize>
+			<alignment>right</alignment>
+		</text>
+
+		<image name="logo">
+			<path>./art/colecovision_sub.svg.png</path>
+			<pos>0.0605 0.152</pos>
+			<size>0.3791 0.15</size>
+			<origin>0 0.5</origin>
+		</image>
+
+	</view>
+		
+	<view name="basic">
+	
+		<textlist name="gamelist">
+			<pos>0.025 0.22</pos>
+			<size>0.951 0.69</size>
+			<alignment>center</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+		</textlist>
+		
+	</view>
+
+	<view name="detailed">
+	
+<!-- <measuring rectangle
+		<image name="measure" extra="true">
+			<pos>0.025 0.24</pos>
+			<origin>0 0</origin>
+			<size>0.125 0.301</size>
+			<path>./../art/white.png</path>
+			<color>ff00ff</color>
+		</image> 
+ -->
+ 
+		<image name="md_image">
+			<pos>0.25 0.56</pos>
+<!-- 			<size>0.135 0.301</size>
+ -->			<maxSize>0.600 0.600</maxSize>
+			<origin>0.5 0.5</origin>
+		</image>
+		
+		<text name="md_lbl_rating">
+			<pos>0.292 0.100</pos>
+		</text>
+		
+		<text name="md_lbl_releasedate">
+			<pos>0.292 0.100</pos>
+		</text>
+		
+		<text name="md_lbl_developer">
+			<pos>0.292 0.100</pos>
+			<size>0.133 0.04</size>
+		</text>
+
+		<text name="md_lbl_publisher">
+			<pos>0.292 0.100</pos>
+			<size>0.133 0.04</size>
+		</text>
+		
+		<text name="md_lbl_genre">
+			<pos>0.292 0.100</pos>
+		</text>
+		
+		<text name="md_lbl_players">
+			<pos>0.292 0.100</pos>
+		</text>
+
+		<text name="md_lbl_lastplayed">
+			<pos>0.292 0.100</pos>
+		</text>
+
+		<text name="md_lbl_playcount">
+			<pos>0.292 0.100</pos>
+		</text>
+		
+		<text name="md_playcount">
+			<pos>0.425 0.100</pos>
+		</text>
+
+		<datetime name="md_lastplayed">
+			<pos>0.425 0.100</pos>
+		</datetime>
+		
+		<text name="md_players">
+			<pos>0.425 0.100</pos>
+		</text>
+		
+		<text name="md_genre">
+			<pos>0.425 0.100</pos>
+		</text>
+
+		<text name="md_publisher">
+			<pos>0.425 0.100</pos>
+		</text>
+		
+		<text name="md_developer">
+			<pos>0.425 0.100</pos>
+		</text>
+		
+		<datetime name="md_releasedate">
+			<pos>0.425 0.100</pos>
+		</datetime>
+		
+		<rating name="md_rating">
+			<pos>0.425 0.216</pos>
+			<size>0.028 0.028</size>
+			<filledPath>./../art/invisible.png</filledPath>
+			<unfilledPath>./../art/invisible.png</unfilledPath>
+		</rating>
+		
+		<text name="md_description">
+			<size>0.52 0.3</size>
+			<pos>0.025 0.577</pos>
+		</text>
+		
+		<textlist name="gamelist">
+			<pos>0.500 0.08</pos>
+			<size>0.500 0.84</size>
+			<alignment>left</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+		</textlist>
+
+	</view>
+	
+</theme>
