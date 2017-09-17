@@ -16,7 +16,6 @@ Wii
 xbox
 zmachine
 Both Wonderswans
-VideoPac
 Vextrex
 Game & Watch
 

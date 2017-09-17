@@ -22,7 +22,7 @@
 	<view name="basic, detailed">
 	
 		<text name="system_name_1" extra="true">
-			<text>VideoPac</text>
+			<text>Odyssey2</text>
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0.08</size>
 			<pos>0.527 0.01</pos>
