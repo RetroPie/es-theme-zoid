@@ -18,7 +18,6 @@ zmachine
 Both Wonderswans
 VideoPac
 Vextrex
-Virtual Boy
 Game & Watch
 
 Installation
