@@ -16,7 +16,6 @@ Wii
 xbox
 zmachine
 Both Wonderswans
-Game & Watch
 
 Installation
 ============
