@@ -16,7 +16,6 @@ Wii
 xbox
 zmachine
 Both Wonderswans
-Vextrex
 Game & Watch
 
 Installation
