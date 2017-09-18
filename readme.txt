@@ -15,7 +15,6 @@ PSP
 Wii
 xbox
 zmachine
-Both Wonderswans
 
 Installation
 ============
