@@ -10,7 +10,6 @@ Missing backgrounds in the theme
 ============================
 
 Nintendo DS
-PS2
 PSP
 Wii
 xbox
