@@ -1,7 +1,7 @@
 theme name:		zoid
 Description:		based on theme simple with other backgrounds
-version:		1.3
-author:			litzoZoid
+version:		1.4
+author:			litzoZoid (new updates by MacGyver)
 email:			litzi@gmx.net	
 license:		creative commons CC-BY-NC-SA
 
@@ -9,11 +9,6 @@ license:		creative commons CC-BY-NC-SA
 Missing backgrounds in the theme
 ============================
 
-Nintendo DS
-PS2
-PSP
-Wii
-xbox
 zmachine
 
 Installation

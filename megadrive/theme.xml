@@ -13,8 +13,8 @@
         </image>
 		
 		<helpsystem name="help">
-			<textColor>00000088</textColor>
-			<iconColor>00000088</iconColor>
+			<textColor>ffffff88</textColor>
+			<iconColor>ffffff88</iconColor>
 		</helpsystem>
 		
 	</view>
@@ -26,17 +26,6 @@
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0.08</size>
 			<pos>0.527 0.01</pos>
-			<color>7b7d7f</color>
-			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
-			<fontSize>0.055</fontSize>
-			<alignment>right</alignment>
-		</text>
-		
-		<text name="system_name_2" extra="true">
-			<text>SEGA Genesis</text>
-			<forceUppercase>1</forceUppercase>
-			<size>0.45 0.08</size>
-			<pos>0.527 0.07</pos>
 			<color>7b7d7f</color>
 			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
 			<fontSize>0.055</fontSize>
