@@ -1,7 +1,7 @@
 theme name:		zoid
 Description:		based on theme simple with other backgrounds
-version:		1.3
-author:			litzoZoid
+version:		1.4
+author:			litzoZoid (new updates by MacGyver)
 email:			litzi@gmx.net	
 license:		creative commons CC-BY-NC-SA
 
@@ -9,12 +9,33 @@ license:		creative commons CC-BY-NC-SA
 Missing backgrounds in the theme
 ============================
 
-Nintendo DS
-PS2
-PSP
-Wii
-xbox
-zmachine
+ags
+arcade
+bbcmicro
+channelf
+coco
+daphne
+desktop
+dragon32
+fds
+kodi
+love
+mame-advmame
+mame-libretro
+mame-mame4all
+mess
+misc
+oric
+pce-cd
+residualvm
+samcoupe
+steam
+stratagus
+supergrafx
+tg-cd
+ti99
+trs80
+zmachine (not even sure what this would look like)
 
 Installation
 ============
