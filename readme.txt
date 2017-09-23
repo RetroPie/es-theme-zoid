@@ -9,7 +9,6 @@ license:		creative commons CC-BY-NC-SA
 Missing backgrounds in the theme
 ============================
 
-Nintendo DS
 PSP
 Wii
 xbox
