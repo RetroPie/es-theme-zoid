@@ -20,7 +20,6 @@ misc
 oric
 pce-cd
 residualvm
-samcoupe
 steam
 stratagus
 supergrafx
