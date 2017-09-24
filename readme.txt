@@ -16,7 +16,6 @@ coco
 desktop
 dragon32
 fds
-kodi
 love
 mess
 misc
