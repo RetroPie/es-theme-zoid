@@ -10,25 +10,16 @@ Missing backgrounds in the theme
 ============================
 
 ags
-arcade
 bbcmicro
 channelf
-coco
-daphne
 desktop
-dragon32
 fds
-kodi
 love
-mame-advmame
-mame-libretro
-mame-mame4all
 mess
 misc
 oric
 pce-cd
 residualvm
-samcoupe
 steam
 stratagus
 supergrafx
