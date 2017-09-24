@@ -10,7 +10,6 @@ Missing backgrounds in the theme
 ============================
 
 ags
-bbcmicro
 channelf
 desktop
 fds
