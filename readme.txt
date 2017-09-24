@@ -15,7 +15,6 @@ fds
 love
 mess
 misc
-oric
 pce-cd
 residualvm
 steam
