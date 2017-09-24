@@ -10,7 +10,6 @@ Missing backgrounds in the theme
 ============================
 
 ags
-arcade
 bbcmicro
 channelf
 coco
@@ -19,9 +18,6 @@ dragon32
 fds
 kodi
 love
-mame-advmame
-mame-libretro
-mame-mame4all
 mess
 misc
 oric
