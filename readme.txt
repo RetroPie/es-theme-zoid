@@ -12,7 +12,6 @@ Missing backgrounds in the theme
 ags
 bbcmicro
 channelf
-coco
 desktop
 dragon32
 fds
