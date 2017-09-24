@@ -14,7 +14,6 @@ arcade
 bbcmicro
 channelf
 coco
-daphne
 desktop
 dragon32
 fds
