@@ -14,7 +14,6 @@ desktop
 love
 mess
 misc
-pce-cd
 residualvm
 steam
 stratagus
