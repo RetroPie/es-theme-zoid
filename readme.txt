@@ -10,20 +10,13 @@ Missing backgrounds in the theme
 ============================
 
 ags
-bbcmicro
-channelf
 desktop
-fds
 love
 mess
 misc
-oric
-pce-cd
 residualvm
 steam
 stratagus
-supergrafx
-tg-cd
 ti99
 trs80
 zmachine (not even sure what this would look like)
