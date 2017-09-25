@@ -19,7 +19,6 @@ residualvm
 steam
 stratagus
 supergrafx
-tg-cd
 ti99
 trs80
 zmachine (not even sure what this would look like)
