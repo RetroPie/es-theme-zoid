@@ -11,7 +11,6 @@ Missing backgrounds in the theme
 
 ags
 desktop
-fds
 love
 mess
 misc
