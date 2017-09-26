@@ -9,17 +9,13 @@ license:		creative commons CC-BY-NC-SA
 Missing backgrounds in the theme
 ============================
 
-ags
-desktop
-love
-mess
-misc
-residualvm
-steam
-stratagus
-ti99
-trs80
-zmachine (not even sure what this would look like)
+ags (created a minimal theme at least)
+desktop (created a minimal theme at least)
+love (created a minimal theme at least)
+residualvm (created a minimal theme at least)
+steam (created a minimal theme at least)
+stratagus (created a minimal theme at least)
+zmachine (created a minimal theme at least)
 
 Installation
 ============
