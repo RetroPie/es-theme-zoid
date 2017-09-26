@@ -12,8 +12,6 @@ Missing backgrounds in the theme
 ags (created a minimal theme at least)
 desktop (created a minimal theme at least)
 love (created a minimal theme at least)
-mess
-misc
 residualvm (created a minimal theme at least)
 steam (created a minimal theme at least)
 stratagus (created a minimal theme at least)
