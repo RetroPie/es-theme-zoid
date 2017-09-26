@@ -17,7 +17,6 @@ misc
 residualvm
 steam
 stratagus
-trs80
 zmachine (not even sure what this would look like)
 
 Installation
