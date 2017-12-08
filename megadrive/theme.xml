@@ -5,11 +5,11 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./art/gen_art.jpg</path>
+			<path>./art/system_art.jpg</path>
 		</image>
 
 		<image name="logo">
-			<path>./art/gen.svg</path>
+			<path>./art/system.svg</path>
         </image>
 		
 		<helpsystem name="help">
@@ -33,7 +33,7 @@
 		</text>
 
 		<image name="logo">
-			<path>./art/gen.svg</path>
+			<path>./art/system.svg</path>
 			<pos>0.025 0.079</pos>
 			<maxSize>0.45 0.1</maxSize>
 			<origin>0 0.5</origin>
